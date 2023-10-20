@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ur7djNdHtHs1VH6XdZo7rg1yKyYaui2n2dMTGEf6LnupvHUMG4/WdjGVkNHTcwmk4aPCKtY+WwnuZhlEOWdhw==",
+  "dgSpecHash": "sZ1nvqavi9i7xr+4qv54kWfzSp/hk8QYSkyFFB0CzJqLCiB3ysnelnrFDTh8w2fzX30I9MkUwQPnG7mFvLs6FA==",
   "success": true,
-  "projectFilePath": "D:\\DCE\\monty-hall-paradox\\Backend\\Backend.csproj",
+  "projectFilePath": "D:\\DCE\\monty-hall-paradox\\BAckend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

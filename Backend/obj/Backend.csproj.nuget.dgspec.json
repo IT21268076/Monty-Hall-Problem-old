@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DCE\\monty-hall-paradox\\Backend\\Backend.csproj": {}
+    "D:\\DCE\\monty-hall-paradox\\BAckend\\Backend.csproj": {}
   },
   "projects": {
-    "D:\\DCE\\monty-hall-paradox\\Backend\\Backend.csproj": {
+    "D:\\DCE\\monty-hall-paradox\\BAckend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DCE\\monty-hall-paradox\\Backend\\Backend.csproj",
+        "projectUniqueName": "D:\\DCE\\monty-hall-paradox\\BAckend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "D:\\DCE\\monty-hall-paradox\\Backend\\Backend.csproj",
+        "projectPath": "D:\\DCE\\monty-hall-paradox\\BAckend\\Backend.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\DCE\\monty-hall-paradox\\Backend\\obj\\",
+        "outputPath": "D:\\DCE\\monty-hall-paradox\\BAckend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
